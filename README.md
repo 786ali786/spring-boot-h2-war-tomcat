@@ -3,7 +3,7 @@
 In this app, I used H2 in-memory database for demo purpose
 
 **Application.properties**
-
+....
 ```
 spring.datasource.url=jdbc:h2:mem:TEST;DB_CLOSE_DELAY=-1;
 spring.datasource.username=sa
